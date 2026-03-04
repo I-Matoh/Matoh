@@ -72,3 +72,16 @@ Highlights:
 - Serverless patterns
 - Performance tuning at scale
 - AI Intergration in development
+
+💻 Tech Stack:
+CSS3 HTML5 JavaScript Python TypeScript Vercel Netlify Render Google Cloud Azure Firebase Expo Esbuild JWT NodeJS React Native React Nodemon Express.js Vite TailwindCSS React Hook Form Apache Airflow Apache Postgres MySQL MongoDB Firebase Supabase Prisma Canva Sketch Figma GitHub Git GitHub Actions Jest Vitest Selenium Power Bi Prettier Notion
+
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=its me tyme&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=its me tyme&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=its me tyme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+✍️ Random Dev Quote
+
